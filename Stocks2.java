@@ -24,7 +24,7 @@ class Stocks2 {
 	    
 	} location = location + 1;
 	location1 = location1 + 1;
-	//showing maximum and minimum stock values
+	//Showing maximum and minimum stock values
 	 System.out.println("Max stock value is " + max + " at " + location + " "  );
 	
 	     System.out.println("Min stock value is " + min + " at " + location1 + " ");
